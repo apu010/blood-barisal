@@ -141,7 +141,7 @@
         font-size: 13.5px;
     }
 }
-@media only screen and (max-width: 944px) {
+@media only screen and (max-width: 710px) {
     .contant-btn{
         margin-left: -90px;
     }
