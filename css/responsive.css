@@ -1,0 +1,148 @@
+@media only screen and (max-width: 1578px) {
+    .information {
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 1408px) {
+    .information {
+        width: 78%;
+    }
+}
+@media only screen and (max-width: 1275px) {
+    .information {
+        width: 76%;
+    }
+}
+@media only screen and (max-width: 1203px) {
+    .information {
+        width: 74%;
+    }
+    .video{
+        width: 1100px;
+    }
+}
+@media only screen and (max-width: 1115px) {
+    /* header{
+        width: 1073.5px;
+    } */
+    .information {
+        width: 72%;
+    }
+    .video{
+        width: 1000px;
+    }
+}
+@media only screen and (max-width: 1018px) {
+     header .logo h1{
+        font-size: 29px;
+        padding: 10px;
+    } 
+    .information {
+        width: 70%;
+    }
+    .video{
+        width: 900px;
+        height: 320px;
+    }
+}
+@media only screen and (max-width: 944px) {
+    header .logo h1{
+       font-size: 25px;
+       padding: 14px;
+   } 
+   .information {
+       width: 68%;
+   }
+   .video{
+       width: 800px;
+       height: 300px;
+   }
+}
+@media only screen and (max-width: 868px) {
+    header .logo h1{
+       font-size: 22px;
+       padding: 16px;
+   }
+   .contant-btn{
+       margin-left: -70px;
+   }
+   .information {
+       width: 68%;
+       height: 250px;
+   }
+   .video{
+       width: 700px;
+       height: 270px;
+   }
+}
+@media only screen and (max-width: 852px) {
+   .information {
+       width: 66%;
+   }
+}
+@media only screen and (max-width: 800px) {
+    header .logo h1{
+       font-size: 22px;
+       padding: 16px;
+   } 
+   .information {
+       width: 64%;
+   }
+   .information p{
+       font-size: 14.7px;
+   }
+   .video{
+       width: 650px;
+       height: 200px;
+   }
+   .video h3{
+       font-size: 15px;
+   }
+}
+@media only screen and (max-width: 799px) {
+    header .logo h1{
+       font-size: 20px;
+       padding: 18px;
+    }
+    .contant-btn .row1{
+        width: 200px;
+    }
+    .contant-btn .row1 h1{
+        font-size: 17px;
+        text-align: center;
+        margin-top: -20px;
+
+    }
+}
+@media only screen and (max-width: 750px) {
+    header .logo h1{
+        font-size: 19px;
+    }
+    .navbar{
+        /* margin-left: 210px; */
+        margin-right: 100px;
+    }
+   .navbar a{
+    font-size: 20px;
+   }
+   .information {
+       width: 62%;
+   }
+   .video{
+       width: 650px;
+       height: 300px;
+   }
+}
+@media only screen and (max-width: 736px) {
+    header .logo h1{
+       font-size: 18px;
+    }
+    .information p{
+        font-size: 13.5px;
+    }
+}
+@media only screen and (max-width: 944px) {
+    .contant-btn{
+        margin-left: -90px;
+    }
+}
