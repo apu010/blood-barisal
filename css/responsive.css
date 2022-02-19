@@ -146,7 +146,8 @@
         margin-left: -90px;
     }
 }
- @media only screen and (max-width: 560px) {
+<<<<<<< HEAD
+@media only screen and (max-width: 560px) {
     header .logo{
         width: 170px;
     }
@@ -222,3 +223,5 @@
         margin-left: 30px;
     }
 }
+=======
+>>>>>>> 40a5cc2090ac0c07ec210516b83ae5e4f1fdba9f
