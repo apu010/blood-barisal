@@ -141,8 +141,84 @@
         font-size: 13.5px;
     }
 }
-@media only screen and (max-width: 944px) {
+@media only screen and (max-width: 710px) {
     .contant-btn{
         margin-left: -90px;
+    }
+}
+ @media only screen and (max-width: 560px) {
+    header .logo{
+        width: 170px;
+    }
+    header .logo h1{
+        font-size: 20px;
+        padding: 18.5px;
+    }
+    .navbar{
+         margin-right: 30px;
+    }
+    .navbar a{
+        font-size: 19px;
+    }
+    .side-banner1{
+        opacity: 0;
+    }
+    .side-banner1 img{
+        width: 0%;
+    }
+    .information{
+        width: 88%;
+    }
+    .information p{
+        font-size: 15px;
+    }
+    .video{
+        width: 500px;
+        height: 240px;
+    }
+} 
+@media only screen and (max-width: 360px) {
+    header .logo{
+        width: 120px;
+        margin: auto;
+        margin-left: 16px;
+        margin-top: 20px;
+    }
+    header .logo h1{
+        font-size: 16px;
+        padding: 13.9px;
+    }
+    .navbar a{
+        font-size: 14px;
+        margin: auto;
+        margin-left: 10px;
+    }
+    .cover-photo img{
+        height: 300px;
+        margin-top: 50px;
+    }
+    .contant-btn .row1{
+        margin: auto;
+        margin-left: 170px;
+
+    }
+    .information{
+        height: 450px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+        margin-top: -20px;
+    }
+    .video{
+        width: 300px;
+        height: 400px;
+    }
+    .video iframe{
+        width: 100%;
+        height: 200px;
+        margin-bottom: 20px;
+        margin-left: 22px;
+    }
+    .video h3{
+        margin-left: 30px;
     }
 }
